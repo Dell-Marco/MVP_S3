@@ -2,7 +2,7 @@
 
 Pasta com arquivos do MVP 
 
-O link para o Google Colab, caso precise: [https://](https://colab.research.google.com/drive/1K8pLA27kF53tJDRxtrFLEus_Mwz038m5?usp=sharing)
+O link para o Google Colab, caso precise: [Colabs](https://colab.research.google.com/drive/1K8pLA27kF53tJDRxtrFLEus_Mwz038m5?usp=sharing)
 
 Coloco também uma cópia do dataset, para backup.
 
