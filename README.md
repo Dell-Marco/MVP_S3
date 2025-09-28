@@ -6,5 +6,4 @@ O link para o Google Colab, caso precise: [Colabs](https://colab.research.google
 
 Coloco também uma cópia do dataset, para backup.
 
-ATENÇÃO: Devido ao tempo de processamento do treinamento do modelo MLPRegressor com hiperparametros, substituí a célula 27 por sua imagem já  
-executada. O programa executa normalmente sem esta célula. Tem um outro modelo que performou levemente melhor, então não prejudicou a análise.
+ATENÇÃO: Devido ao tempo de processamento do treinamento do modelo MLPRegressor com hiperparametros, substituí a célula 27 por sua imagem já executada. O programa executa normalmente sem esta célula. Tem um outro modelo que performou levemente melhor, então não prejudicou a análise.
